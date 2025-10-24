@@ -1,4 +1,4 @@
-<img align="center" width="1500px" src="[https://i.ibb.co/b2q4b1n/Black-and-Red-Gradient-Professional-Linked-In-Banner.png](https://www.canva.com/design/DAG2vFdoitk/rfv9C4-iOidsmg6HXFZ0uw/edit?ui=eyJEIjp7IlEiOnsiQSI6dHJ1ZX19LCJBIjp7fX0)" alt="Muhammad Huzaifa Banner">
+<img align="center" width="1500px" src="https://i.ibb.co/b2q4b1n/Black-and-Red-Gradient-Professional-Linked-In-Banner.png" alt="Muhammad Huzaifa Banner">
 
 <h1 align="center">👋 Hi, I'm Muhammad Huzaifa</h1>
 <h3 align="center">🚀 Frontend Developer | 3D Game Developer | Creative Technologist from Pakistan</h3>
