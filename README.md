@@ -1,6 +1,6 @@
 <img align="center" width="1500px" src="./banner_2.webp" alt="Muhammad Huzaifa Banner">
 
-<h1 align="center">👋 Hi, I'm Muhammad Huzaifa</h1>
+<h1 align="center">👋 Hi, I'm Syed Safeer-Ul-Islam </h1>
 <h3 align="center">🚀 Frontend Developer | 3D Game Developer | Creative Technologist from Pakistan</h3>
 
 <p align="center">
